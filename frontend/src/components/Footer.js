@@ -29,7 +29,7 @@ const Footer = () => {
 
         <span className="inline-flex sm:ml-auto sm:mt-0 mt-4 justify-center sm:justify-start">
           <a
-            href="https://www.facebook.com/md.abu.tal.ha.290841"
+            href="https://www.facebook.com/md.abu.tal.ha.206"
             target="_blank"
             rel="noopener noreferrer"
             className="text-gray-500 hover:text-red-500"
@@ -47,7 +47,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://twitter.com/"
+            href="https://x.com/talha2064"
             target="_blank"
             rel="noopener noreferrer"
             className="ml-3 text-gray-500 hover:text-red-500"
@@ -74,7 +74,7 @@ const Footer = () => {
           </a>
 
           <a
-            href="https://www.linkedin.com/in/abu-talha-210720335/"
+            href="https://www.linkedin.com/in/abu-talha-/"
             target="_blank"
             rel="noopener noreferrer"
             className="ml-3 text-gray-500 hover:text-red-500"

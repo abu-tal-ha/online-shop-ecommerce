@@ -1,3 +1,4 @@
+// const backendDomin = "https://online-shop-ecommerce-backend.onrender.com"
 const backendDomin = "http://localhost:8000"
 
 const SummaryApi = {
