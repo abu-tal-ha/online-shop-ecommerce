@@ -18,6 +18,9 @@ app.use(express.json());
 app.use(cookieParser());
 
 app.use("/api", router);
+app.use("/", (req, res) => {
+  res.send("Hello from backend");
+});
 
 connectDB()
     .then(() => {
@@ -29,3 +32,4 @@ connectDB()
     .catch((error) => {
         console.error("Failed to connect to DB:", error);
     });
+
